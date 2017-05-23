@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "Statistical Genomics @ BIMSB"
+description: "The Statistical Genomics group will be established at the Max Delbrück Center in July 2017."
+logo: christoph_lippert.jpg # 120x120 px default image used for Twitter summary card
+teaser: cl_line.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: "Christoph Lippert"
+  email: "christoph.a.lippert@gmail.com"
+  twitter: "@LippertChr"
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: "Christoph Lippert is a Data Scientist at Human Longevity, Inc."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 

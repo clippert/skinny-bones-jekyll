@@ -1,6 +1,15 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Projects
+  url: /projects/
+  excerpt: "Things I’ve worked on."
+  image: bio-photo.jpg # 300x200
+
+- title: Publications
+  url: /publications/
+  excerpt: "Things I’ve published."
+  image: bio-photo.jpg # 300x200
+
+
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=RVl8TE0AAAAJ
